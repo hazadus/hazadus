@@ -1,4 +1,15 @@
-### Hi there 👋
+### Hi there 👋!
+
+My name is Alexander, I am a backend developer.
+
+Check out my projects:
+
+- 🏡 [Hazadus.ru](https://hazadus.ru): My personal web site.
+- 💬 [Node Messenger](http://messenger.hazadus.ru/): Real time chat app. Drop me a line there!
+
+...and more!
+
+----
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hazadus&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Hazadus' GitHub stats](https://github-readme-stats.vercel.app/api?username=hazadus)](https://github.com/anuraghazra/github-readme-stats)
