@@ -6,8 +6,12 @@ Check out my projects:
 
 - 🏡 [Hazadus.ru](https://hazadus.ru): My personal web site.
 - 💬 [Node Messenger](http://messenger.hazadus.ru/): Real time chat app. Drop me a line there!
+- 📃 [Трололо](http://boards.hazadus.ru): Trello clone.
+- 📌 [Bookmarks](http://bookmarks.hazadus.ru): Manage your web bookmarks online.
 
-...and more!
+Ask me about any project or repo, in issues or use link below.
+
+- 📫 How to reach me: [Contact](https://hazadus.ru/about/#contacts)
 
 ----
 
