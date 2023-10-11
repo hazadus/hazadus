@@ -8,6 +8,7 @@ Check out my projects:
 - 💬 [Node Messenger](http://messenger.hazadus.ru/): Real time chat app. Drop me a line there!
 - 📃 [Трололо](http://boards.hazadus.ru): Trello clone.
 - 📌 [Bookmarks](http://bookmarks.hazadus.ru): Manage your web bookmarks online.
+- 🏗️ [RSS Reader](http://rss.hazadus.ru/): Read RSS feeds online. In development! 🚧
 
 Ask me about any project or repo, in issues or use link below.
 
