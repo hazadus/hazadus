@@ -5,14 +5,14 @@ My name is Alexander, I am a backend developer.
 Check out my projects:
 
 - 🏡 [Hazadus.ru](https://hazadus.ru): My personal web site.
-- 💬 [Node Messenger](http://messenger.hazadus.ru/): Real time chat app. Drop me a line there!
+- 🏗️ [RSS Reader](http://rss.hazadus.ru/): Read RSS feeds online. In development! 🚧
 - 📃 [Трололо](http://boards.hazadus.ru): Trello clone.
 - 📌 [Bookmarks](http://bookmarks.hazadus.ru): Manage your web bookmarks online.
-- 🏗️ [RSS Reader](http://rss.hazadus.ru/): Read RSS feeds online. In development! 🚧
+- 💬 [Node Messenger](http://messenger.hazadus.ru/): Real time chat app. Drop me a line there!
 
 Ask me about any project or repo, in issues or use link below.
 
-- 📫 How to reach me: [Contact](https://hazadus.ru/about/#contacts)
+- 📫 How to reach me: see [contact](https://hazadus.ru/about/#contacts) info on my site.
 
 ----
 
