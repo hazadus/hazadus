@@ -12,7 +12,7 @@ Check out my projects:
 
 Ask me about any project or repo, in issues or use link below.
 
-- 📫 How to reach me: see [contact](https://hazadus.ru/about/#contacts) info on my site.
+- 📫 How to reach me: see [contact](https://hazadus.ru/about/#contacts) info on my site, or drop a message to [@hazadus](https://t.me/hazadus).
 
 ----
 
