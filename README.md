@@ -2,11 +2,11 @@
 
 My name is Alexander, I am a backend developer.
 
-Check out my projects:
+Check out my personal website and projects:
 
 - 🏡 [Hazadus.ru](https://hazadus.ru): My personal web site.
-- 🏗️ [RSS Reader](http://rss.hazadus.ru/): Read RSS feeds online. In development! 🚧
-- 📃 [Трололо](http://boards.hazadus.ru): Trello clone.
+- 🏗️ [RSS Reader](http://rss.hazadus.ru/): Read RSS feeds online. 🚧 In development! [Read post about it](https://hazadus.ru/blog/new-project-rss-reader).
+- 📃 [Трололо](http://boards.hazadus.ru): Trello clone. [Read post about the app](https://hazadus.ru/blog/nuxt-board-deploy).
 - 📌 [Bookmarks](http://bookmarks.hazadus.ru): Manage your web bookmarks online.
 - 💬 [Node Messenger](http://messenger.hazadus.ru/): Real time chat app. Drop me a line there!
 
