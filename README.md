@@ -1,6 +1,8 @@
 ### Hi there 👋!
 
-My name is Alexander, I am a backend developer.
+My name is Alexander, I am a junior backend developer.
+
+Technologies I am most interested in are: Python, Django, PostgreSQL, asyncio, TypeScript, Nuxt.
 
 Check out my personal website and projects:
 
@@ -17,9 +19,10 @@ Ask me about any project or repo, in issues or use link below.
 ----
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hazadus&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Hazadus' GitHub stats](https://github-readme-stats.vercel.app/api?username=hazadus)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
+[![Hazadus' GitHub stats](https://github-readme-stats.vercel.app/api?username=hazadus)](https://github.com/anuraghazra/github-readme-stats)
+
 **hazadus/hazadus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
