@@ -2,7 +2,7 @@
 
 My name is Alexander, I am a junior backend developer.
 
-Technologies I am most interested in are: Python, Django, PostgreSQL, asyncio, TypeScript, Nuxt.
+Technologies I am most interested in are: Python, Django, PostgreSQL, TypeScript, Nuxt.
 
 Check out my personal website and projects:
 
@@ -10,7 +10,6 @@ Check out my personal website and projects:
 - 🏗️ [RSS Reader](http://rss.hazadus.ru/): Read RSS feeds online. 🚧 In development! [Read post about it](https://hazadus.ru/blog/new-project-rss-reader).
 - 📃 [Трололо](http://boards.hazadus.ru): Trello clone. [Read post about the app](https://hazadus.ru/blog/nuxt-board-deploy).
 - 📌 [Bookmarks](http://bookmarks.hazadus.ru): Manage your web bookmarks online.
-- 💬 [Node Messenger](http://messenger.hazadus.ru/): Real time chat app. Drop me a line there!
 
 Ask me about any project or repo, in issues or use link below.
 
