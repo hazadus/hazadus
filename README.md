@@ -1,19 +1,20 @@
-### Hi there 👋!
+## Привет всем 👋!
 
-My name is Alexander, I am a junior backend developer.
+Меня зовут Александр, я - начинающий разработчик backend.
 
-Technologies I am most interested in are: Python, Django, PostgreSQL, TypeScript, Nuxt.
+Мои основные технологии: Python, Django, FastAPI, PostgreSQL.
 
-Check out my personal website and projects:
+Люблю Nuxt и TypeScript. Планирую изучить Go!
 
-- 🏡 [amgold.ru](https://amgold.ru): My personal web site.
-- 🏗️ [RSS Reader](http://rss.hazadus.ru/): Read RSS feeds online. 🚧 In development! [Read post about it](https://hazadus.ru/blog/new-project-rss-reader).
-- 📃 [Трололо](http://boards.hazadus.ru): Trello clone. [Read post about the app](https://hazadus.ru/blog/nuxt-board-deploy).
-- 📌 [Bookmarks](http://bookmarks.hazadus.ru): Manage your web bookmarks online.
+Мой сайт и личные проекты:
 
-Ask me about any project or repo, in issues or use link below.
+- 🏡 [amgold.ru](https://amgold.ru)
+- 🏗️ [RSS Reader](http://rss.hazadus.ru/): Читайте RSS ленты онлайн. 🚧 В разработке! [Read post about it](https://hazadus.ru/blog/new-project-rss-reader).
+- 📃 [Трололо](http://boards.hazadus.ru): Аналог Trello. [Пост о приложении](https://amgold.ru/blog/nuxt-board-deploy).
+- 📌 [Bookmarks](http://bookmarks.hazadus.ru): Управляйте закладками на веб-страницы онлайн.
 
-- 📫 How to reach me: see [contact](https://hazadus.ru/about/#contacts) info on my site, or drop a message to [@hazadus](https://t.me/hazadus).
+ Связаться со мной:
+- 📫 [контакты](https://amgold.ru/about/#contacts), Телеграм: [@hazadus](https://t.me/hazadus).
 
 ----
 
