@@ -23,6 +23,8 @@
 - 📚 Моя [библиотека](https://library.hazadus.ru/): книжный сайт для семейного пользования.
 - 🪴 [Cад Знаний](https://hazadus.github.io/knowledge/)
 
+Хобби: 📚 [книги](https://amgold.ru/about/bookshelf), 🎮 [игры](https://steamcommunity.com/id/hazadus/), 🎶 [винил](https://amgold.ru/vinyl/).
+
  Связаться со мной:
 - 📫 [Контакты](https://amgold.ru/about/#contacts)
 - 💬 Телеграм: [@hazadus](https://t.me/hazadus).
