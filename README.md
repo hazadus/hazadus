@@ -11,10 +11,10 @@
 - 🔗 [Анвералинк](https://anvlink.ru): сокращение ссылок с большим функционалом для маркетологов. Backend / Go.
 - 🗂️ [NamesApp](https://nameapp.anverali.tech): каталог имён для определения пола. Frontend / TypeScript, Nuxt.
 - ✨ Приложения для Битрикс24:
-    - 🗓️ [Определение информации о дате](https://www.bitrix24.ru/apps/app/anverali.dateapp/)
-    - 🔗 [Сокращатель ссылок Анвералинк](https://www.bitrix24.ru/apps/app/anverali.anvlink/)
-    - 💬 [Уведомление в Telegram](https://www.bitrix24.ru/apps/app/anverali.notifyapp/)
-
+    - 🔗 [Сокращатель ссылок Анвералинк](https://www.bitrix24.ru/apps/app/anverali.anvlink/) | [Пост](https://hazadus.ru/blog/bitrix24-anvlink)
+    - 💬 [Уведомление в Telegram](https://www.bitrix24.ru/apps/app/anverali.notifyapp/) | [Пост](https://hazadus.ru/blog/bitrix24-notifyapp)
+    - 📊 [Расчёт прибыли и рентабельности по сделке в Битрикс24](https://www.bitrix24.ru/apps/app/anverali.profitsapp/) | [Пост](https://hazadus.ru/blog/bitrix24-profits)
+    - 🗓️ [Определение информации о дате](https://www.bitrix24.ru/apps/app/anverali.dateapp/) | [Пост](https://hazadus.ru/blog/bitrix24-dateapp)
 Мой сайт и личные проекты:
 
 - 🏡 [amgold.ru](https://amgold.ru)
