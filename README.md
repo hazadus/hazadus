@@ -15,6 +15,7 @@
     - 💬 [Уведомление в Telegram](https://www.bitrix24.ru/apps/app/anverali.notifyapp/) | [Пост](https://hazadus.ru/blog/bitrix24-notifyapp)
     - 📊 [Расчёт прибыли и рентабельности по сделке в Битрикс24](https://www.bitrix24.ru/apps/app/anverali.profitsapp/) | [Пост](https://hazadus.ru/blog/bitrix24-profits)
     - 🗓️ [Определение информации о дате](https://www.bitrix24.ru/apps/app/anverali.dateapp/) | [Пост](https://hazadus.ru/blog/bitrix24-dateapp)
+    - 🔄 [Предыдущая стадия сделки](https://www.bitrix24.ru/apps/app/anverali.previous_stage/) | [Пост](https://amgold.ru/blog/bitrix24-stages)
 
 Мой сайт и личные проекты:
 
