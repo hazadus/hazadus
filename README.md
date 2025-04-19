@@ -27,7 +27,6 @@
 - 🌅 [Postcard](https://hazadus.github.io/nuxt-postcard/): небольшой сервис для создания social previews для веб-страниц.
 - ⛓️‍💥 [Broken](https://github.com/hazadus/go-broken): утилита для поиска "битых" ссылок на сайтах. Работает на GitHub.
 - 📸 [Архив скриншотов](https://github.com/hazadus/site-screenshots): история развития сайтов в картинках.
-- 📚 Моя [библиотека](https://library.hazadus.ru/): книжный сайт для семейного пользования.
 - 🪴 [Cад Знаний](https://hazadus.github.io/knowledge/)
 
 Хобби: 📚 [книги](https://amgold.ru/about/bookshelf), 🎮 [игры](https://steamcommunity.com/id/hazadus/), 🎶 [винил](https://amgold.ru/vinyl/).
