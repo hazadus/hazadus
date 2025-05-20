@@ -7,9 +7,10 @@
 
 Проекты и задачи в них:
 
-- 🎙️ [Спикеры24](https://speakers24.ru): найти спикера для мероприятия. Full stack / Python.
+- 🎙️ [Спикеры24](https://speakers24.ru): найти спикера для мероприятия. Full stack / Python + Django.
 - 🔗 [Анвералинк](https://anvlink.ru): сокращение ссылок с большим функционалом для маркетологов. Backend / Go.
-- 🗂️ [NamesApp](https://nameapp.anverali.tech): каталог имён для определения пола. Frontend / TypeScript, Nuxt.
+- 💦 [Apusher](https://apusher.com), [Apusher Miniapp](https://t.me/apusher_bot): платформа для сотрудничества брендов и блоггеров. Backend, Lead / Python + FastAPI.
+- 🗂️ [NamesApp](https://nameapp.anverali.tech): каталог имён для определения пола. Frontend / TypeScript + Nuxt.
 - ✨ Приложения для Битрикс24:
     - 🔗 [Сокращатель ссылок Анвералинк](https://www.bitrix24.ru/apps/app/anverali.anvlink/) | [Пост](https://hazadus.ru/blog/bitrix24-anvlink)
     - 💬 [Уведомление в Telegram](https://www.bitrix24.ru/apps/app/anverali.notifyapp/) | [Пост](https://hazadus.ru/blog/bitrix24-notifyapp)
