@@ -3,10 +3,11 @@
 Меня зовут Александр, я – разработчик backend.
 
 Мои основные технологии: Python, Django, FastAPI, PostgreSQL.
-Люблю Nuxt и TypeScript. Изучаю Go!
+Люблю Nuxt/Vue и TypeScript. Изучаю Go!
 
 Проекты и задачи в них:
 
+- 🍹 [Эффект Негрони](https://t.me/negronispace_bot): миниапп для [ресторана Негрони](https://entermedia.io/food/negroni-novoe-gastromesto-v-kazani-dlya-znakomstv-i-obshheniya/) в Казани. Fullstack / FastAPI + Vue.
 - 🎙️ [Спикеры24](https://speakers24.ru): найти спикера для мероприятия. Full stack / Python + Django.
 - 🔗 [Анвералинк](https://anvlink.ru): сокращение ссылок с большим функционалом для маркетологов. Backend / Go.
 - 💦 [Apusher](https://apusher.com), [Apusher Miniapp](https://t.me/apusher_bot): платформа для сотрудничества брендов и блоггеров. Backend, Lead / Python + FastAPI.
