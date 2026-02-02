@@ -1,9 +1,8 @@
 ## Привет всем 👋!
 
-Меня зовут Александр, я – разработчик backend.
+Меня зовут Александр, я – full-stack web разработчик.
 
-Мои основные технологии: Python, Django, FastAPI, PostgreSQL.
-Люблю Nuxt/Vue и TypeScript. Изучаю Go!
+Мои основные технологии: Python, FastAPI, Django, PostgreSQL; TypeScript, Vue/Nuxt. Люблю и всегда рад поработать на Go!
 
 Проекты и задачи в них:
 
@@ -19,44 +18,32 @@
     - 🗓️ [Определение информации о дате](https://www.bitrix24.ru/apps/app/anverali.dateapp/) | [Пост](https://hazadus.ru/blog/bitrix24-dateapp)
     - 🔄 [Предыдущая стадия сделки](https://www.bitrix24.ru/apps/app/anverali.previous_stage/) | [Пост](https://amgold.ru/blog/bitrix24-stages)
 
+----
+
 Мой сайт и личные проекты:
 
-- 🏡 [amgold.ru](https://amgold.ru)
-- 💬 [gh-commitmsg](https://github.com/hazadus/gh-commitmsg): расширение для GitHub CLI для генерации сообщений для коммитов в стиле conventional commit. [Пост о проекте](https://amgold.ru/blog/gh-commitmsg).
-- 🌳 [Тропы Природы](https://тропыприроды.рф): сайт для поиска, изучения и обмена опытом о природных достопримечательностях и экологических маршрутах. [Пост о проекте](https://hazadus.ru/blog/ecotrails). [Мой профиль](https://тропыприроды.рф/u/Hazadus)
-- 🔭 [Биржа Услуг](https://exchange.amgold.ru): позволяет размещать зарегистрированным пользователям информацию о предоставляемых ими услугах и выступать в качестве исполнителей, или заказывать услуги у других пользователей. [Пост о проекте](https://hazadus.ru/blog/services-exchange-project)
+- 🏡 [amgold.ru](https://amgold.ru) (TypeScript/Nuxt)
+- 💬 [gh-commitmsg](https://github.com/hazadus/gh-commitmsg): расширение для GitHub CLI для генерации сообщений для коммитов в стиле conventional commit (Go). [Пост о проекте](https://amgold.ru/blog/gh-commitmsg).
+- 🔭 [Биржа Услуг](https://exchange.amgold.ru): позволяет размещать зарегистрированным пользователям информацию о предоставляемых ими услугах и выступать в качестве исполнителей, или заказывать услуги у других пользователей (Python/Django). [Пост о проекте](https://hazadus.ru/blog/services-exchange-project)
+- ⏱️ [TogglTrackBar](https://github.com/hazadus/TogglTrackBar): приложение для управления записями времени в TogglTrack из строки меню macOS (Swift/SwiftUI).
 - 🍅 [Pomodoro Timer](https://github.com/hazadus/electron-pomodoro): таймер помидора в системном трее (Electron/TypeScript).
 - 🧩 [Neovim Reference](https://github.com/hazadus/raycast-neovim-reference): справочник по командам NeoVim (LazyVim) в виде расширения Raycast (TypeScript)
-- 🪵 [Logstream](https://github.com/hazadus/go-logstream): стриминг обновлений лог-файла через SSE.
-- 🌅 [Postcard](https://hazadus.github.io/nuxt-postcard/): небольшой сервис для создания social previews для веб-страниц.
-- 🏗️ RSS Reader: читайте RSS ленты онлайн. Сайт закрыт. [Пост о проекте](https://hazadus.ru/blog/new-project-rss-reader).
-- ⛓️‍💥 [Broken](https://github.com/hazadus/go-broken): утилита для поиска "битых" ссылок на сайтах. Работает на GitHub.
-- 📝 [Архив ссылок](https://hazadus.github.io/readwise-links/): все мои ссылки из Readwise с highlights и заметками.
-- 📸 [Архив скриншотов](https://github.com/hazadus/site-screenshots): история развития сайтов в картинках.
-
-Хобби: 📚 [книги](https://amgold.ru/about/bookshelf), 🎮 [игры](https://steamcommunity.com/id/hazadus/), 🎶 [винил](https://amgold.ru/vinyl/), 🧭 [прогулки](https://тропыприроды.рф/u/Hazadus).
-
- Связаться со мной:
-- 📫 [Контакты](https://amgold.ru/about/#contacts)
-- 💬 Телеграм: [@hazadus](https://t.me/hazadus).
+- 🪵 [Logstream](https://github.com/hazadus/go-logstream): стриминг обновлений лог-файла через SSE (Go).
+- ⛓️‍💥 [Broken](https://github.com/hazadus/go-broken): утилита для поиска "битых" ссылок на сайтах (Go). Работает на раннере GitHub.
 
 ----
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hazadus&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+Архивное:
+- 🌳 [Тропы Природы](https://hazadus.ru/blog/ecotrails): сайт для поиска, изучения и обмена опытом о природных достопримечательностях и экологических маршрутах. В настоящее время закрыт. [Пост о проекте](https://hazadus.ru/blog/ecotrails).
+- 🌅 [Postcard](https://hazadus.github.io/nuxt-postcard/): небольшой сервис для создания social previews для веб-страниц.
+- 🏗️ RSS Reader: читайте RSS ленты онлайн. Сайт закрыт. [Пост о проекте](https://hazadus.ru/blog/new-project-rss-reader).
+- 📝 [Архив ссылок](https://hazadus.github.io/readwise-links/): все мои ссылки из Readwise с highlights и заметками.
+- 📸 [Архив скриншотов](https://github.com/hazadus/site-screenshots): история развития сайтов в картинках.
 
-<!--
-[![Hazadus' GitHub stats](https://github-readme-stats.vercel.app/api?username=hazadus)](https://github.com/anuraghazra/github-readme-stats)
+----
 
-**hazadus/hazadus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Хобби: 📚 [книги](https://amgold.ru/about/bookshelf), 🎮 [игры](https://steamcommunity.com/id/hazadus/), 🎶 [винил](https://amgold.ru/vinyl/), 🧭 прогулки.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ Связаться со мной:
+- 💬 Телеграм: [@hazadus](https://t.me/hazadus).
+- 📫 [Контакты](https://amgold.ru/about/#contacts)
