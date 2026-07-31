@@ -26,6 +26,7 @@
 ----
 Личные проекты:
 
+- 📚 [Dict](https://dict.amgold.ru): персональный словарь для любых языков (Full stack / Nuxt).
 - 💬 [gh-commitmsg](https://github.com/hazadus/gh-commitmsg): расширение для GitHub CLI для генерации сообщений для коммитов в стиле conventional commit (Go).
 - ⏱️ [TogglTrackBar](https://github.com/hazadus/TogglTrackBar): приложение для управления записями времени в TogglTrack из строки меню macOS (Swift/SwiftUI).
 - 🪵 [Logstream](https://github.com/hazadus/go-logstream): стриминг обновлений лог-файла через SSE (Go).
